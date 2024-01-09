@@ -1,5 +1,3 @@
-# game_of_life
-John Conway's Game of Life in Rust
+# John Conway's Game of Life in Rust
 
-
-[rules](https://rustwasm.github.io/docs/book/game-of-life/rules.html)
+[Rules](https://rustwasm.github.io/docs/book/game-of-life/rules.html). Currently contains a hard-coded [Gosper glider gun](https://conwaylife.com/wiki/Gosper_glider_gun).
